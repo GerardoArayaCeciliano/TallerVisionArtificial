@@ -1,0 +1,18 @@
+https://www.python.org/downloads/windows/
+https://pypi.org/project/opencv-contrib-python/
+Consola
+https://pypi.org/project/imutils/
+Consola
+https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe
+Software
+https://mediapipe.dev/
+En la consola como admin pip freeze
+pip freeze
+pip install mediapipe
+
+import sys
+print(sys.version)
+
+Vesion 3.9.1
+
+Buena 3.6.7
